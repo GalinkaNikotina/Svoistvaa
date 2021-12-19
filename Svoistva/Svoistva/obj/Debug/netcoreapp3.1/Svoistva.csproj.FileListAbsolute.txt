@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Svoistva\Svoistva\bin\Debug\netcoreapp3.1\Svoistva.exe
+C:\Users\user\source\repos\Svoistva\Svoistva\bin\Debug\netcoreapp3.1\Svoistva.deps.json
+C:\Users\user\source\repos\Svoistva\Svoistva\bin\Debug\netcoreapp3.1\Svoistva.runtimeconfig.json
+C:\Users\user\source\repos\Svoistva\Svoistva\bin\Debug\netcoreapp3.1\Svoistva.runtimeconfig.dev.json
+C:\Users\user\source\repos\Svoistva\Svoistva\bin\Debug\netcoreapp3.1\Svoistva.dll
+C:\Users\user\source\repos\Svoistva\Svoistva\bin\Debug\netcoreapp3.1\Svoistva.pdb
+C:\Users\user\source\repos\Svoistva\Svoistva\obj\Debug\netcoreapp3.1\Svoistva.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Svoistva\Svoistva\obj\Debug\netcoreapp3.1\Svoistva.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Svoistva\Svoistva\obj\Debug\netcoreapp3.1\Svoistva.AssemblyInfo.cs
+C:\Users\user\source\repos\Svoistva\Svoistva\obj\Debug\netcoreapp3.1\Svoistva.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Svoistva\Svoistva\obj\Debug\netcoreapp3.1\Svoistva.dll
+C:\Users\user\source\repos\Svoistva\Svoistva\obj\Debug\netcoreapp3.1\Svoistva.pdb
+C:\Users\user\source\repos\Svoistva\Svoistva\obj\Debug\netcoreapp3.1\Svoistva.genruntimeconfig.cache
